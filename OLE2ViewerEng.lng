@@ -1,0 +1,31 @@
+﻿.Language=English,English
+
+"OLE2Viewer"
+
+"&Enable plugin"
+"Use extension &filter"
+
+"Version"
+"Type"
+"Size"
+"Streams"
+"Storages"
+"Macros"
+
+"Opening the compound file OLE2"
+"&Open file"
+
+"Extracting"
+"Extract items &to:"
+
+"OK"
+"Cancel"
+"&Extract"
+
+"Invalid parameter"
+"Invalid data"
+"Not enough memory"
+"File open error"
+"File read Error"
+"File write Error"
+"Unknown error"

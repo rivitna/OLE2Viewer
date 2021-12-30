@@ -1,0 +1,17 @@
+LIBRARY	"OLE2Viewer"
+
+EXPORTS
+	GetGlobalInfoW
+	SetStartupInfoW
+	GetPluginInfoW
+        ExitFARW
+	ConfigureW
+	AnalyseW
+	OpenW
+	ClosePanelW
+        GetFindDataW
+        FreeFindDataW
+        SetDirectoryW
+        GetOpenPanelInfoW
+	GetFilesW
+        ProcessPanelInputW
